@@ -174,6 +174,5 @@ var mixed_arr =["Karachi", true , null , "Haris" , 99 ];
 // Question No.15
 
 // var manufacturers = ["Apple", "Samsung", "Motorola", "Nokia", "Sony", "Haier"];
-
-//       document.write('<select>','<option value="Samsung">Samsung</option>','<option value="Motorola">Motorola</option>','<option value="Nokia">Nokia</option>','<option value="Sony">Sony</option>','<option value="Haier">Haier</option>','</select>');
+// document.write('<select>','<option value="Samsung">Samsung</option>','<option value="Motorola">Motorola</option>','<option value="Nokia">Nokia</option>','<option value="Sony">Sony</option>','<option value="Haier">Haier</option>','</select>');
     
