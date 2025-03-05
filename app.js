@@ -151,36 +151,29 @@ var mixed_arr =["Karachi", true , null , "Haris" , 99 ];
 // document.write("String : " ,arr_1 );
 
 // Question No.13
+// var devices = ["keyboard", "mouse" , 'printer' , "monitor"];
+// document.write("devices:" ,devices , "<br>")
 // var new_arr = [];
-
 // new_arr.push("Keyboard");
 // new_arr.push("Mouse");
 // new_arr.push("Printer");
 // new_arr.push("Monitor");
-// document.write(arr, "<br />")
-
-// new_arr.unshift("Keyboard");
-// new_arr.unshift("Mouse");
-// new_arr.unshift("Printer");
-// new_arr.unshift("Monitor");
-// document.write(new_arr);
+// document.write(new_arr, "<br />")
 
 
 // Question No.14
-
-var arr = [];
-arr.unshift("Keyboard");
-arr.unshift("Mouse");
-arr.unshift("Printer");
-arr.unshift("Monitor");
-arr.push("Monitor");
-arr.push("Printer");
-arr.push("Mouse");
-arr.push("Keyboard");
-document.write(arr);
+// var devices = ["keyboard", "mouse" , 'printer' , "monitor"];
+// document.write("devices:" ,devices , "<br>")
+// var arr = [];
+// arr.unshift("Keyboard");
+// arr.unshift("Mouse");
+// arr.unshift("Printer");
+// arr.unshift("Monitor");
+// document.write(arr);
 
 // Question No.15
 
-var mobile = ["Apple" , " Samsung" ,"Motorola" ,"Nokia" ,"Sony" , "Heir"]
-document.write("<selected>" , mobile ,"</selected");
+// var manufacturers = ["Apple", "Samsung", "Motorola", "Nokia", "Sony", "Haier"];
 
+//       document.write('<select>','<option value="Samsung">Samsung</option>','<option value="Motorola">Motorola</option>','<option value="Nokia">Nokia</option>','<option value="Sony">Sony</option>','<option value="Haier">Haier</option>','</select>');
+    
